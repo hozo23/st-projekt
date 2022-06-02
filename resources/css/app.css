@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-image1{
+    background-image: url('https://www.formula1.com/etc/designs/fom-website/images/live-timing-interstitial.jpg');
+    background-position: center center;
+    background-position: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 300px;
+}
+.background-image2{
+    background-image: url('https://www.formula1.com/etc/designs/fom-website/images/live-timing-interstitial.jpg');
+    background-position: center center;
+    background-position: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 600px;
+}
